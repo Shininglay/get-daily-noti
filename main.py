@@ -9,7 +9,7 @@ from time import mktime
 from config import *
 
 # === 设置回顾时间范围 ===
-MAX_LOOKBACK_DAYS = 14 
+MAX_LOOKBACK_DAYS = 30 
 
 # === 新增：去重检测范围 ===
 # 检查过去多少个 Issue 来防止重复？建议设为 30 (覆盖过去一个月)
