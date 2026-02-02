@@ -15,7 +15,7 @@ REPO_NAME = '你的仓库名'          # <--- 修改这里 (例如: daily-paper-
 # 只要标题或摘要包含以下任意一个词，就会被抓取
 KEYWORD_LIST = [
     # --- MEMS & 传感器 ---
-    "MEMS", "NEMS",
+    "the","MEMS", "NEMS",
     "piezoelectric", "triboelectric", # 压电/摩擦电
     "cantilever", "resonator",
     
