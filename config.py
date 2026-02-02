@@ -7,7 +7,7 @@ import os
 TOKEN = os.environ.get('GH_TOKEN') 
 USERNAME = 'Shininglay'     # <--- 修改这里
 REPO_OWNER = 'Shininglay'   # <--- 修改这里
-REPO_NAME = 'daily-paper-bot'          # <--- 修改这里 (例如: daily-paper-bot)
+REPO_NAME = 'daily-paper-noti'          # <--- 修改这里 (例如: daily-paper-bot)
 
 # ==========================================
 # 2. 关键词设置 (针对 可穿戴/MEMS/微流控)
