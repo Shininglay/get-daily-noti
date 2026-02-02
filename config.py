@@ -7,7 +7,7 @@ import os
 TOKEN = os.environ.get('GH_TOKEN') 
 USERNAME = 'Shininglay'            
 REPO_OWNER = 'Shininglay'          
-REPO_NAME = 'get-daily-arxiv-noti' 
+REPO_NAME = 'get-daily-noti' 
 
 # ==========================================
 # 2. 关键词狙击 (覆盖 Rogers/Bao/IMEC/传感器)
